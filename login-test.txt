@@ -1,0 +1,8 @@
+I just created a login file.
+Login Page Test Cases
+=====================
+1. Test valid username and password
+2. Test invalid username
+3. Test invalid password
+4. Test empty fields
+5. Test forgot password link
