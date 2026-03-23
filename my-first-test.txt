@@ -3,3 +3,4 @@ I am learning Git and GitHub
 Date: March 2026
 
 I am excited about my first code.
+I am learning to push from VS Code!
